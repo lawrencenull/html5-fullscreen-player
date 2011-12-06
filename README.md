@@ -203,5 +203,5 @@ Direct your questions to ray@boxee.tv
 
 Recommended Reading
 -------------------
-http://diveintohtml5.org/video.html
+http://diveintohtml5.info/video.html
 
